@@ -11,5 +11,6 @@ You can measure your intelligence.
 
 # Images :
 
-![pic2](https://github.com/bardlur/iq_app/assets/138980378/f1d39761-e16a-4807-96fe-b15b2e443a6f)
-![pic3](https://github.com/bardlur/iq_app/assets/138980378/e7520a48-2262-4116-a13d-fdf453b495ee)
+![pic3](https://github.com/bardlur/iq_app/assets/138980378/88b657be-e206-4b72-bc11-4ba9f2aa30c7)
+
+![pic2](https://github.com/bardlur/iq_app/assets/138980378/0886afb3-25f4-412a-ab0d-4fb3d05770ec)
