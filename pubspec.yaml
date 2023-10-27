@@ -1,0 +1,61 @@
+name: quize_app
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.1
+  font_awesome_flutter: ^10.5.0
+  google_fonts: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/Questions/1/
+    - assets/images/Questions/2/
+    - assets/images/Questions/3/
+    - assets/images/Questions/4/
+    - assets/images/Questions/5/
+    - assets/images/Questions/6/
+    - assets/images/Questions/7/
+    - assets/images/Questions/8/
+    - assets/images/Questions/9/
+    - assets/images/Questions/10/
+    - assets/images/Questions/11/
+    - assets/images/Questions/12/
+    - assets/images/Questions/13/
+    - assets/images/Questions/14/
+    - assets/images/Questions/15/
+    - assets/images/Questions/16/
+    - assets/images/Questions/17/
+    - assets/images/Questions/18/
+    - assets/images/Questions/19/
+    - assets/images/Questions/20/
+ 
+
+  fonts:
+    - family: dana
+      fonts:
+        - asset: assets/fonts/dana-regular.ttf
+
+    - family: danablack
+      fonts:
+        - asset: assets/fonts/dana-black.ttf
+  
