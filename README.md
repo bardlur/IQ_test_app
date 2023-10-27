@@ -1,5 +1,5 @@
-# Flutter: TicTacToe 
-A TicTacToe app project with Flutter.
+# Flutter: IQ app 
+You can measure your intelligence.
 
 </br> 
 
